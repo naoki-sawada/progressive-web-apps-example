@@ -1,0 +1,8 @@
+body {
+  font-family: 'Open Sans', sans-serif;
+  background: #2196F3;
+  color: #fff;
+
+  -webkit-user-select: none;
+  -webkit-tap-highlight-color: transparent;
+}
